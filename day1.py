@@ -1,2 +1,2 @@
 print("Hello, World!")
-#print("Welcome to Day 1 of the coding challenge!")
+print("Welcome to Day 1 of the coding challenge!")
